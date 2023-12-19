@@ -1,0 +1,11 @@
+# Ignore vendor directory
+/vendor/
+
+# Ignore writable directory
+/writable/
+
+# Ignore environment file
+.env
+
+# Ignore test files
+/tests/
